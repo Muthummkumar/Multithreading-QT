@@ -1,1 +1,2 @@
-# Rendering a graphical sphere using ThreadPool
+# Rendering a graphical sphere using Multithreading (Eventloop & ThreadPool)
+
